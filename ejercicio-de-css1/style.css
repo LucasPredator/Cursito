@@ -1,0 +1,12 @@
+h1{
+    color: #0c223f;
+}
+
+.destacado{
+    font-size: 18px;
+}
+
+#información a{
+    color: green;
+    text-decoration: underline;
+}
