@@ -1,0 +1,14 @@
+body{
+    background: rgb(0,92,247);background: linear-gradient(90deg, rgba(0,92,247,1) 0%, rgba(0,92,247,1) 35%, rgba(0,255,12,1) 100%);
+}
+
+.rock-band-linkin{
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;   
+    font-style: italic;
+    text-align: center;
+    text-transform: initial;
+    text-decoration: double;
+}
